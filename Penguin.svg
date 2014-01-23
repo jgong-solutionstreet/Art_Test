@@ -33,7 +33,7 @@
          offset="0.88679248" />
       <stop
          id="stop3207"
-         style="stop-color:#EFBE96;stop-opacity:1"
+         style="stop-color:#c87600;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -141,7 +141,7 @@
        d="M 418.63184,583.05383 A 70.821175,70.821175 0 1 1 276.98949,583.05383 A 70.821175,70.821175 0 1 1 418.63184,583.05383 z"
        transform="matrix(1.1333333,0,0,1.1333333,-41.338584,-43.746347)"
        id="path3167"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.41176462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#EFBE96;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.41176462;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="M 339.65625,122.03125 C 339.99232,126.33609 340.1875,130.67186 340.1875,135.0625 C 340.1875,226.45392 265.98517,300.625 174.59375,300.625 C 99.173578,300.625 35.520992,250.11208 15.5625,181.09375 C 22.221807,266.39443 93.592968,333.625 180.59375,333.625 C 271.98517,333.625 346.1875,259.45392 346.1875,168.0625 C 346.1875,152.09125 343.88273,136.64682 339.65625,122.03125 z"
        transform="translate(170.66411,366.20177)"
